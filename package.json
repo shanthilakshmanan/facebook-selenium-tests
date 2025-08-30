@@ -1,0 +1,19 @@
+{
+  "name": "facebook-selenium-tests",
+  "version": "1.0.0",
+  "description": "A project for testing Facebook login functionality using Selenium and Cucumber.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0",
+    "cucumber": "^7.0.0",
+    "chai": "^4.3.4"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
